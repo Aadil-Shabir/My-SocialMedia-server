@@ -15,7 +15,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "serve": "node index",
     "start": "node index"
   },
   "repository": {
