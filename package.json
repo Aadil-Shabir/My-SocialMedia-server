@@ -5,13 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "apollo-server": "^3.5.0",
-    "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
     "graphql": "^16.0.1",
     "graphql-tag": "^2.12.6",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.13",
-    "nodemon": "^2.0.15"
+    "mongoose": "^6.0.13"
   },
   "devDependencies": {},
   "scripts": {
